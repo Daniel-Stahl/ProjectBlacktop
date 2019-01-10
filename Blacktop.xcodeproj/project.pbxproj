@@ -14,6 +14,8 @@
 		430E71BC21E510DB00CFD9BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 430E71BA21E510DB00CFD9BD /* LaunchScreen.storyboard */; };
 		430E71C521E5194000CFD9BD /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430E71C421E5194000CFD9BD /* SignupViewController.swift */; };
 		430E71C721E5195A00CFD9BD /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430E71C621E5195A00CFD9BD /* MapViewController.swift */; };
+		430E71C921E7A7C500CFD9BD /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430E71C821E7A7C500CFD9BD /* ProfileViewController.swift */; };
+		430E71CB21E7A7DE00CFD9BD /* EditProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430E71CA21E7A7DE00CFD9BD /* EditProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		430E71BD21E510DB00CFD9BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		430E71C421E5194000CFD9BD /* SignupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 		430E71C621E5195A00CFD9BD /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		430E71C821E7A7C500CFD9BD /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		430E71CA21E7A7DE00CFD9BD /* EditProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,8 @@
 				430E71B321E510D900CFD9BD /* LoginViewController.swift */,
 				430E71C421E5194000CFD9BD /* SignupViewController.swift */,
 				430E71C621E5195A00CFD9BD /* MapViewController.swift */,
+				430E71C821E7A7C500CFD9BD /* ProfileViewController.swift */,
+				430E71CA21E7A7DE00CFD9BD /* EditProfileViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -151,6 +157,8 @@
 			files = (
 				430E71C521E5194000CFD9BD /* SignupViewController.swift in Sources */,
 				430E71B421E510D900CFD9BD /* LoginViewController.swift in Sources */,
+				430E71CB21E7A7DE00CFD9BD /* EditProfileViewController.swift in Sources */,
+				430E71C921E7A7C500CFD9BD /* ProfileViewController.swift in Sources */,
 				430E71B221E510D900CFD9BD /* AppDelegate.swift in Sources */,
 				430E71C721E5195A00CFD9BD /* MapViewController.swift in Sources */,
 			);
